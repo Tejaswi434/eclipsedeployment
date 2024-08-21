@@ -1,0 +1,10 @@
+package com.example.demo;
+
+public class Products {
+   String name;
+   String description;
+   String price;
+   
+}
+NSERT INTO Products (name, description, price, category_id, vendor_id) VALUES
+('iPhone 13', 'Latest model of iPhone', 999.99, 1, 1),

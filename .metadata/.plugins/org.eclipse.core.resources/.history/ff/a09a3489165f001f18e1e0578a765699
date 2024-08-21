@@ -1,0 +1,11 @@
+package com.example.demo;
+
+public class Products {
+   String name;
+   String description;
+   int price;
+   int category_id;
+   int vendor_id ;
+   
+   
+}
